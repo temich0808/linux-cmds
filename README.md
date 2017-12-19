@@ -1,2 +1,4 @@
 # linux-cmds
-my first repo
+
+
+pwd - утилита, выдает текущий каталог
